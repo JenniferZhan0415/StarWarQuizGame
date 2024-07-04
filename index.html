@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="http://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="script.js" defer></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Star Wars Game</title>
+  </head>
+  <body>
+    <header class="banner">
+      <h1 class="banner__title">🚀Star War Quiz🚀</h1>
+    </header>
+
+    <main class="main">
+      <h2 class="main__title">Which vehicle is faster?</h2>
+
+      <div class="card">
+        <div class="card__item">
+          <!-- <h2 class="card__title">Vehicle 1</h2> -->
+          <img class="card__image card__image--a" src="" alt="" />
+          <button class="option__button option__button--a"></button>
+        </div>
+        <div class="card__item">
+          <!-- <h2 class="card__title">Vehicle 2</h2> -->
+          <img class="card__image card__image--b" src="" alt="" />
+          <button class="option__button option__button--b"></button>
+        </div>
+      </div>
+
+      <section class="answer">
+        <p class="answer__text"></p>
+      </section>
+      <button class="againButton">Try again</button>
+    </main>
+  </body>
+</html>
