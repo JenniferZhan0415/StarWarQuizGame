@@ -28,4 +28,6 @@ Team Members
 
 Acknowledgements
 
-Special thanks to the education team @BrainStation and fellow students of the BrainStation Software Engineering program for their support and assistance!
+Special thanks to the education team @BrainStation and fellow students of the BrainStation Software Engineering program for their support and assistance! 
+
+Special thanks to the developers of the SWAPI for providing an excellent resource for Star Wars data and to all the online communities and resources that assisted in the development of this project! 
