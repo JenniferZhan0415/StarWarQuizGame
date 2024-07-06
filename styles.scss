@@ -2,6 +2,7 @@ body {
     font-family: "Russo One", sans-serif;
     background: linear-gradient(#000000, #111111);
     color: #ffffff;
+    height: 100vh;
 }
 
 .banner {
@@ -62,6 +63,8 @@ button:hover {
 .answer {
     display: flex;
     justify-content: center;
+    padding: 0 6rem;
+    text-align: center;
     &__text {
         font-size: 2rem;
     }
