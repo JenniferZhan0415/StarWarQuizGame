@@ -1,6 +1,10 @@
 # StarWarQuizGame
 Star War Quiz Game is a API Hackathon Project .
 
+
+https://github.com/user-attachments/assets/0e0a1262-15a2-4316-a53a-693344457178
+
+
 ## Project Description
 
 This is a web application created during the BrainStation Software Engineering program as part of an API Hackathon challenge. This challenge was conducted in pairs, and we had six hours to complete it. We utilized the Star Wars API (SWAPI) to build this application, applying our skills in HTML, Sass, and JavaScript.
